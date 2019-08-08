@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import * as THREE from 'three';
 
 
-class ThreeScene extends Component{
+class ThreeScene extends Component {
 
     componentDidMount() {
         const width = this.mount.clientWidth;
